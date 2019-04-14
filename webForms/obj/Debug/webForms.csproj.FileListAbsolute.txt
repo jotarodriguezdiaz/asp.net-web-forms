@@ -1,0 +1,7 @@
+C:\proyectos\webForms\webForms\bin\webForms.dll.config
+C:\proyectos\webForms\webForms\bin\webForms.dll
+C:\proyectos\webForms\webForms\bin\webForms.pdb
+C:\proyectos\webForms\webForms\obj\Debug\webForms.csprojAssemblyReference.cache
+C:\proyectos\webForms\webForms\obj\Debug\webForms.csproj.CoreCompileInputs.cache
+C:\proyectos\webForms\webForms\obj\Debug\webForms.dll
+C:\proyectos\webForms\webForms\obj\Debug\webForms.pdb
